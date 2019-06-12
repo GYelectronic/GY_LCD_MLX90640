@@ -5,3 +5,6 @@ Firmware update method:
 3、The computer connects to the product via USB，Select the COM PORT
 4、At the same time, press the confirm key and add key of the product，Waiting for the screen to display "Waiting connect..."
 5、Click "START" of PC software，Wait for the firmware update to complete
+
+Version: V1.5
+1. Change the Show function of the setting item to 1-3.Upgrading from a lower version to that version requires the user to change this value.
