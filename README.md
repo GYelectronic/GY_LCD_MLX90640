@@ -8,3 +8,10 @@ Firmware update method:
 
 Version: V1.5
 1. Change the Show function of the setting item to 1-3.Upgrading from a lower version to that version requires the user to change this value.
+
+Version: V2.0
+
+1.Increase unit conversion.
+2.Added icon feature options.
+  Short press the confirm button-->Press the add/subtract button to select the function options--> Press the confirm button to enter the item
+  -->Press the add/subtract button to change the item value-->Long press the confirm button for 3 seconds to return to normal operation mode.
