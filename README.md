@@ -18,3 +18,11 @@ Version: V2.0
   ![image](https://github.com/GYelectronic/GY_LCD_MLX90640/blob/master/images/function.png)
   ![image](https://github.com/GYelectronic/GY_LCD_MLX90640/blob/master/images/color.gif)
   
+  Version: V2.2
+Add the forehead temperature measurement function, short press the confirm key to enter the menu, right click mode B, confirm the key to enter the function, press the add or subtract key to correct the temperature.
+Reasons for inaccurate measurement:
+1.The temperature fluctuates greatly.It takes 5 minutes for the device to stabilize after starting up.
+2.Measurement distance, ambient temperature changes lead to temperature measurement is not accurate.At this point, E can be modified by
+adding or subtracting keys, and also can be changed appropriately (emissivity, human emissivity is generally 0.95~0.98).
+3.The abrupt change in the measured person's environment leads to inaccurate temperature measurement.Keep the person in the measuring environment for more than 5 minutes before taking the measurement.
+  
