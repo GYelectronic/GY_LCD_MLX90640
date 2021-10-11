@@ -25,4 +25,6 @@ Reasons for inaccurate measurement:
 2.Measurement distance, ambient temperature changes lead to temperature measurement is not accurate.At this point, E can be modified by
 adding or subtracting keys, and also can be changed appropriately (emissivity, human emissivity is generally 0.95~0.98).
 3.The abrupt change in the measured person's environment leads to inaccurate temperature measurement.Keep the person in the measuring environment for more than 5 minutes before taking the measurement.
-  
+  Version: V2.3
+  Fixed a BUG where no image was uploaded to upper computer due to product temperature rise
+Note: Do not update the firmware when the temperature of the product is too high. Update the firmware when the temperature is lower than 37 ° C.
