@@ -33,4 +33,6 @@ Note: Do not update the firmware when the temperature of the product is too high
 Version: V2.4
   1.To optimize the image display.
   2.Optimize the mode of measuring temperature, low temperature of human body temperature measurement.
-
+  
+Version: V2.5
+  Solve the crash bug when serial port output is enabled.
